@@ -1,0 +1,1 @@
+const util_ia4o = (d: any) => d;
